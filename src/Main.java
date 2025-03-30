@@ -51,7 +51,6 @@ public class Main {
         } else if (deliveryDistance > 100) {
             System.out.println("Доставки нет");
         }
-
         return days;
 
     }
